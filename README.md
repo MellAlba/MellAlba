@@ -6,7 +6,7 @@ Hello! I'm a passionate QA Tester with a keen focus on Java and Python. My journ
 =======
 # Hello! I'm Melina! QA
 
-## About me
+## Sobre Mi
 Hello! I'm a passionate QA with a keen focus on Java and Python. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
 >>>>>>> 1f5f844 (NuevaPrueba)
 
